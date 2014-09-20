@@ -5,6 +5,8 @@
 var path = require('path'),
     config;
 
+console.log('PORT:', process.env.PORT);
+
 config = {
     // ### Development **(default)**
     development: {
