@@ -678,7 +678,7 @@ margin on the iframe, cause it breaks stuff. */
     background: #f5f8fa;
 }
 
-.no-cover .page-title {
+/* .no-cover .page-title {
     color: rgba(0,0,0,0.8);
 }
 
@@ -690,7 +690,7 @@ margin on the iframe, cause it breaks stuff. */
 .no-cover .main-nav.overlay .subscribe-button {
     color: rgba(0,0,0,0.4);
     border-color: rgba(0,0,0,0.3);
-}
+} */
 
 /* Add subtle load-in animation for content on the home page */
 .home-template .page-title {
